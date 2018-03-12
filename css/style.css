@@ -1,0 +1,44 @@
+body{
+    background: url("../glenn-carstens-peters-203007.jpg")
+        no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container{
+    margin:0 auto;
+    margin-top: 230px;
+    text-align: center;
+    font-size: 1.5em;
+}
+.container p{
+    font-size: .8em;
+ 
+    font-size: 1.2em bold;
+}
+.container button{
+    font-size: .9em;
+    width: 120px;
+    height: 70px;
+    border-radius: 11px;
+   font-family: 'Acme', sans-serif;
+}
+.container button i{
+    font-size: 1.8em;
+    
+}
+.container h2{
+    font-family: 'Ranchers', cursive;
+    font-size: 1.7em;
+}
+.container button p{
+    font-size: 1.2em;
+}
+@media(max-width:600px)
+{.a{
+    background-color: #69C271;
+    }
+    
+}
+.cen{
+    margin-left: 15px;
+}
